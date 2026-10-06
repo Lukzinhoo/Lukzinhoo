@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.png" width="100%" alt="Banner Luiz Neto">
+</p>
+
 # 👋 Olá, eu sou o Luiz Neto!
 
 🎓 Estudante de **Ciência da Computação**  
