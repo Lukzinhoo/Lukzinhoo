@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luís Neto!
+# 👋 Olá, eu sou o Luiz Neto!
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Desenvolvedor de Software em formação  
