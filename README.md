@@ -129,8 +129,7 @@ Estou buscando oportunidades para adquirir experiência profissional, colaborar 
 
 📧 **E-mail:** luizjosearaujo2005neto@gmail.com
 
-💻 **GitHub:**  
-https://github.com/Lukzinhoo
+💻 **GitHub:**  https://github.com/Lukzinhoo
 
 ---
 
